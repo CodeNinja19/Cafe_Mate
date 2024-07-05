@@ -1,4 +1,3 @@
-# Cafe_Mate
 
 <h1>About Cafe Mate Website</h1>
 <p>Cafe Mate is the one stop solution to all the cafe related needs of a user. It allows the users to see all the cafe near them and allowing them to filter/compare them in the prefered way.</p>
